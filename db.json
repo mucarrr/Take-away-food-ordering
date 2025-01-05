@@ -1,0 +1,448 @@
+{
+  "restaurants": [
+    {
+      "id": "1",
+      "name": "Taste of Flavor",
+      "minPrice": 90,
+      "estimatedDelivery": 45,
+      "photo": "https://panoramicrestaurant.com/wp-content/uploads/2023/07/2TH08812-1-scaled.jpg",
+      "rating": 4.7,
+      "isDeliveryFree": true,
+      "isOpen": false,
+      "distance": 5
+    },
+    {
+      "id": "2",
+      "name": "Aromatic Home",
+      "minPrice": 40,
+      "estimatedDelivery": 35,
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Restaurant_N%C3%A4sinneula.jpg/640px-Restaurant_N%C3%A4sinneula.jpg",
+      "rating": 4.5,
+      "isDeliveryFree": false,
+      "isOpen": true,
+      "distance": 7
+    },
+    {
+      "id": "3",
+      "name": "Flavor Corner",
+      "minPrice": 60,
+      "estimatedDelivery": 50,
+      "photo": "https://qul.imgix.net/ca169046-430e-4b8d-b218-3f0f73c446be/625936_sld.jpg",
+      "rating": 4.8,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 2
+    },
+    {
+      "id": "4",
+      "name": "Cozy Spot",
+      "minPrice": 45,
+      "estimatedDelivery": 40,
+      "photo": "https://cdn.prod.website-files.com/5ef30598819014419e188294/632db7d0cfb3d9a19112094b_MB206737-About-Us.jpg",
+      "rating": 4.6,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 9
+    },
+    {
+      "id": "5",
+      "name": "Taste That Lasts",
+      "minPrice": 55,
+      "estimatedDelivery": 55,
+      "photo": "https://nolinskiparis.com/wp-content/uploads/2024/09/restaurant-nolinskiparis-crevettes-%C2%A9julielimont-960x1280.jpg",
+      "rating": 4.9,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 11
+    },
+    {
+      "id": "6",
+      "name": "Flavor Spring",
+      "minPrice": 55,
+      "estimatedDelivery": 40,
+      "photo": "https://cdn.prod.website-files.com/60414b21f1ffcdbb0d5ad688/65bd3f2ed08408ced197152d_restaurant-terms.jpg",
+      "rating": 4.4,
+      "isDeliveryFree": false,
+      "isOpen": false,
+      "distance": 1
+    },
+    {
+      "id": "7",
+      "name": "Healthy Station",
+      "minPrice": 60,
+      "estimatedDelivery": 50,
+      "photo": "https://t3.ftcdn.net/jpg/03/24/73/92/360_F_324739203_keeq8udvv0P2h1MLYJ0GLSlTBagoXS48.jpg",
+      "rating": 4.6,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 2
+    },
+    {
+      "id": "8",
+      "name": "Spicy Flavors",
+      "minPrice": 50,
+      "estimatedDelivery": 45,
+      "photo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cmVzdGF1cmFudHxlbnwwfHwwfHx8MA%3D%3D",
+      "rating": 4.7,
+      "isDeliveryFree": true,
+      "isOpen": true,
+      "distance": 11
+    },
+    {
+      "id": "9",
+      "name": "Gourmet Kitchen",
+      "minPrice": 120,
+      "estimatedDelivery": 35,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzT_jBEUO4e3t-RwXCRtNUWapMhvY8x2zzTw&s",
+      "rating": 4.8,
+      "isOpen": true,
+      "isDeliveryFree": false,
+      "distance": 3
+    },
+    {
+      "id": "10",
+      "name": "Anatolian Table",
+      "minPrice": 80,
+      "estimatedDelivery": 50,
+      "photo": "https://image-tc.galaxy.tf/wijpeg-c5byq6ssk21t0h97xnqwmf61/dining-room_standard.jpg?crop=111%2C0%2C1779%2C1334",
+      "rating": 4.6,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 7
+    },
+    {
+      "id": "11",
+      "name": "Aegean Delights",
+      "minPrice": 70,
+      "estimatedDelivery": 40,
+      "photo": "https://www.dipnosofistirion.gr/wp-content/uploads/2023/08/%CE%9C%CE%9F%CE%A5%CE%A3%CE%95%CE%99%CE%9F-%CE%9C%CE%A0%CE%95%CE%9D%CE%91%CE%9A%CE%97-%CE%95%CE%9B%CE%9B%CE%97%CE%9D%CE%99%CE%9A%CE%9F%CE%A5-%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%99%CE%A3%CE%9C%CE%9F%CE%A5-%CE%9A%CE%9F%CE%9B%CE%A9%CE%9D%CE%91%CE%9A%CE%99-1.jpg",
+      "rating": 4.9,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 4
+    },
+    {
+      "id": "12",
+      "name": "Feast of Taste",
+      "minPrice": 110,
+      "estimatedDelivery": 30,
+      "photo": "https://cdn-fjadp.nitrocdn.com/sZLOiCOjZRTJJdDZEjFctknNWoWzWyRk/assets/images/optimized/rev-c17cee5/thisisboise.com/wp-content/uploads/2023/11/Tavolata-Italian-Restaurant-Boise.webp",
+      "rating": 4.5,
+      "isOpen": true,
+      "isDeliveryFree": true,
+      "distance": 2
+    },
+    {
+      "id": "13",
+      "name": "Flavor Stop",
+      "minPrice": 95,
+      "estimatedDelivery": 55,
+      "photo": "https://hips.hearstapps.com/veranda/assets/16/34/best-restaurants-beauty-essex.jpg",
+      "rating": 4.3,
+      "isOpen": false,
+      "isDeliveryFree": false,
+      "distance": 6
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "Grilled Salmon",
+      "desc": "Fresh salmon fillet grilled and served with vegetables.",
+      "category": "Seafood",
+      "price": 45.99,
+      "rating": 4.8,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJy7e7FNp7D3XHt8SSWKZyej_gLn9u60YFFQ&s",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "2",
+      "title": "Margherita Pizza",
+      "desc": "Classic pizza with fresh mozzarella cheese, tomato sauce, and basil on thin crust.",
+      "category": "Pizza",
+      "price": 12.99,
+      "rating": 4.5,
+      "photo": "https://picsum.photos/id/1005/200/300",
+      "restaurantId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Chicken Kebab",
+      "desc": "Marinated chicken pieces skewered and grilled to perfection.",
+      "category": "Kebabs",
+      "price": 17.99,
+      "rating": 4.7,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb2D5SkA0BgqHkK2lvKEz-D94fvrWYBojRHQ&s",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "4",
+      "title": "Chocolate Brownie",
+      "desc": "Rich chocolate brownie served with vanilla ice cream.",
+      "category": "Desserts",
+      "price": 8.99,
+      "rating": 4.9,
+      "photo": "https://picsum.photos/id/1013/200/300",
+      "restaurantId": "3"
+    },
+    {
+      "id": "5",
+      "title": "Baked Pasta",
+      "desc": "Oven-baked pasta with mozzarella cheese and tomato sauce.",
+      "category": "Pasta",
+      "price": 10.99,
+      "rating": 4.6,
+      "photo": "https://picsum.photos/id/1020/200/300",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "6",
+      "title": "Beef Stew in Clay Pot",
+      "desc": "Tender beef with vegetables and spices slow-cooked in a clay pot.",
+      "category": "Meat Dishes",
+      "price": 22.99,
+      "rating": 4.4,
+      "photo": "https://picsum.photos/id/1024/200/300",
+      "restaurantId": "5"
+    },
+    {
+      "id": "7",
+      "title": "Baked Chicken Leg",
+      "desc": "Chicken legs marinated with spices and baked until golden brown.",
+      "category": "Chicken Dishes",
+      "price": 14.99,
+      "rating": 4.7,
+      "photo": "https://picsum.photos/id/1025/200/300",
+      "restaurantId": "7",
+      "isPopular": true
+    },
+    {
+      "id": "8",
+      "title": "Vegetable Noodle",
+      "desc": "Light and delicious Asian dish with various vegetables and noodles.",
+      "category": "Asian Cuisine",
+      "price": 11.99,
+      "rating": 4.6,
+      "photo": "https://picsum.photos/id/1035/200/300",
+      "restaurantId": "8",
+      "isPopular": true
+    },
+    {
+      "id": "9",
+      "title": "Italian Salad",
+      "desc": "Fresh arugula, cherry tomatoes, mozzarella cheese, and balsamic dressing.",
+      "category": "Salads",
+      "price": 8.49,
+      "rating": 4.3,
+      "photo": "https://picsum.photos/id/1041/200/300",
+      "restaurantId": "3"
+    },
+    {
+      "id": "10",
+      "title": "Curry Chicken",
+      "desc": "Chicken pieces cooked in Indian-style curry sauce served with rice.",
+      "category": "Indian Cuisine",
+      "price": 16.99,
+      "rating": 4.8,
+      "photo": "https://picsum.photos/id/1043/200/300",
+      "restaurantId": "5"
+    },
+    {
+      "id": "11",
+      "title": "Seasonal Salad",
+      "desc": "Refreshing salad made with seasonal vegetables.",
+      "category": "Salads",
+      "price": 7.99,
+      "rating": 4.5,
+      "photo": "https://picsum.photos/id/1049/200/300",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "12",
+      "title": "Crispy Chicken Wings",
+      "desc": "Crispy fried chicken wings served with dipping sauce.",
+      "category": "Snacks",
+      "price": 9.99,
+      "rating": 4.4,
+      "photo": "https://picsum.photos/id/1051/200/300",
+      "restaurantId": "2"
+    },
+    {
+      "id": "42",
+      "title": "Adana Kebab",
+      "desc": "Spicy minced meat skewer grilled over charcoal.",
+      "category": "Kebabs",
+      "price": 12.99,
+      "rating": 4.5,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQr9SecDKyrGVP89TP86NtUEzLwcz5jI1-A&s",
+      "restaurantId": "1",
+      "isPopular": true
+    },
+    {
+      "id": "53",
+      "title": "Chicken Kebab",
+      "desc": "Marinated chicken pieces skewered and grilled to perfection.",
+      "category": "Kebabs",
+      "price": 17.99,
+      "rating": 4.7,
+      "photo": "https://picsum.photos/id/1055/200/300",
+      "restaurantId": "3"
+    },
+    {
+      "id": "24",
+      "title": "Chocolate Brownie",
+      "desc": "Rich chocolate brownie served with vanilla ice cream.",
+      "category": "Desserts",
+      "price": 8.99,
+      "rating": 4.9,
+      "photo": "https://picsum.photos/id/1056/200/300",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "35",
+      "title": "Baked Pasta",
+      "desc": "Oven-baked pasta with mozzarella cheese and tomato sauce.",
+      "category": "Pasta",
+      "price": 10.99,
+      "rating": 4.6,
+      "photo": "https://picsum.photos/id/1062/200/300",
+      "restaurantId": "5"
+    },
+    {
+      "id": "76",
+      "title": "Beef Stew in Clay Pot",
+      "desc": "Tender beef with vegetables and spices slow-cooked in a clay pot.",
+      "category": "Meat Dishes",
+      "price": 22.99,
+      "rating": 4.4,
+      "photo": "https://picsum.photos/id/1063/200/300",
+      "restaurantId": "6",
+      "isPopular": true
+    },
+    {
+      "id": "57",
+      "title": "Baked Chicken Leg",
+      "desc": "Chicken legs marinated with spices and baked until golden brown.",
+      "category": "Chicken Dishes",
+      "price": 14.99,
+      "rating": 4.7,
+      "photo": "https://picsum.photos/id/1064/200/300",
+      "restaurantId": "7"
+    },
+    {
+      "id": "38",
+      "title": "Vegetable Noodle",
+      "desc": "Light and delicious Asian dish with various vegetables and noodles.",
+      "category": "Asian Cuisine",
+      "price": 11.99,
+      "rating": 4.6,
+      "photo": "https://picsum.photos/id/1071/200/300",
+      "restaurantId": "8",
+      "isPopular": true
+    },
+    {
+      "id": "29",
+      "title": "Italian Salad",
+      "desc": "Fresh arugula, cherry tomatoes, mozzarella cheese, and balsamic dressing.",
+      "category": "Salads",
+      "price": 8.49,
+      "rating": 4.3,
+      "photo": "https://picsum.photos/id/1074/200/300",
+      "restaurantId": "5",
+      "isPopular": true
+    },
+    {
+      "id": "310",
+      "title": "Curry Chicken",
+      "desc": "Chicken pieces cooked in Indian-style curry sauce served with rice.",
+      "category": "Indian Cuisine",
+      "price": 16.99,
+      "rating": 4.8,
+      "photo": "https://picsum.photos/id/1078/200/300",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "111",
+      "title": "Seasonal Salad",
+      "desc": "Refreshing salad made with seasonal vegetables.",
+      "category": "Salads",
+      "price": 7.99,
+      "rating": 4.5,
+      "photo": "https://picsum.photos/id/1081/200/300",
+      "restaurantId": "2"
+    },
+    {
+      "id": "310",
+      "title": "Curry Chicken",
+      "desc": "Chicken pieces cooked in Indian-style curry sauce served with rice.",
+      "category": "Indian Cuisine",
+      "price": 16.99,
+      "rating": 4.8,
+      "photo": "https://picsum.photos/id/1082/200/300",
+      "restaurantId": "4",
+      "isPopular": true
+    },
+    {
+      "id": "311",
+      "title": "Grilled Salmon",
+      "desc": "Fresh salmon fillet grilled and served with lemon slices.",
+      "category": "Seafood",
+      "price": 21.99,
+      "rating": 4.7,
+      "photo": "https://picsum.photos/id/1084/200/300",
+      "restaurantId": "7",
+      "isPopular": true
+    },
+    {
+      "id": "312",
+      "title": "Margherita Pizza",
+      "desc": "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+      "category": "Italian Cuisine",
+      "price": 12.5,
+      "rating": 4.5,
+      "photo": "https://picsum.photos/id/1086/200/300",
+      "restaurantId": "3",
+      "isPopular": false
+    },
+    {
+      "id": "313",
+      "title": "Falafel Plate",
+      "desc": "Crispy falafel balls served with hummus, fresh vegetables, and pita bread.",
+      "category": "Vegetarian",
+      "price": 10.99,
+      "rating": 4.6,
+      "photo": "https://picsum.photos/id/1090/200/300",
+      "restaurantId": "9",
+      "isPopular": false
+    },
+    {
+      "id": "314",
+      "title": "Lamb Tandoori",
+      "desc": "Slow-cooked tender lamb served with bulgur pilaf.",
+      "category": "Turkish Cuisine",
+      "price": 24.99,
+      "rating": 4.9,
+      "photo": "https://picsum.photos/id/1095/200/300",
+      "restaurantId": "2",
+      "isPopular": true
+    },
+    {
+      "id": "315",
+      "title": "Pad Thai",
+      "desc": "Thai-style Pad Thai with shrimp, rice noodles, and peanuts.",
+      "category": "Asian Cuisine",
+      "price": 14.99,
+      "rating": 4.4,
+      "photo": "https://picsum.photos/id/1096/200/300",
+      "restaurantId": "6",
+      "isPopular": false
+    }
+  ],
+  "cart": []
+}
